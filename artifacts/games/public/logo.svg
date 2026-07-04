@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="GameBlaze logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7d3cff" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+    <linearGradient id="gb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8b4d9" />
+      <stop offset="40%" stop-color="#c084fc" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="96" ry="96" fill="url(#bg)" />
+  <circle cx="256" cy="256" r="204" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="14" />
+  <circle cx="256" cy="256" r="180" fill="none" stroke="url(#gb)" stroke-width="20" filter="url(#glow)" />
+  <path d="M184 192h40l36-72h42l-34 64 68 9-46 90h-42l32-62-76-12z" fill="url(#gb)" />
+  <path d="M290 210h34l40-36-26 80 22 30h-38l-20-28-14 28h-36l20-94 18 20z" fill="url(#gb)" />
+  <text x="256" y="390" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="4" fill="#ffffff" opacity="0.9">GAMEBLAZE</text>
+</svg>

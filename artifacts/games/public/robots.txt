@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://player-files--abodeelhalabi.replit.app/sitemap.xml

@@ -1,0 +1,13 @@
+node_modules/
+**/node_modules/
+dist/
+artifacts/games/dist/
+artifacts/api-server/dist/
+lib/**/dist/
+**/.DS_Store
+*.log
+*.local
+.env*
+pnpm-debug.log*
+.vscode/
+artifacts/api-server/data/uploads/*

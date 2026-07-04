@@ -1,0 +1,58 @@
+{
+  "games": [
+    {
+      "id": "30a9d39a-95ad-4799-95a5-bbf7eab8dbb5",
+      "name": "Good Pizza, Great Pizza - Cooking Simulator Game",
+      "description": "محاكاة، طبخ، إدارة",
+      "story": "Good Pizza, Great Pizza هي لعبة محاكاة وإدارة مطعم بيتزا، حيث تبدأ رحلتك كصاحب مطعم صغير وتسعى لتحويله إلى أفضل مطعم في المدينة. تستقبل طلبات الزبائن، وتحضر البيتزا حسب رغباتهم باستخدام مكونات متنوعة، ثم تدير أرباحك لتطوير المطعم وشراء معدات ووصفات جديدة. مع تقدمك في اللعبة ستواجه تحديات يومية، ومنافسة من مطاعم أخرى، وزبائن بطلبات مختلفة، مما يتطلب السرعة والدقة والإدارة الذكية لتحقيق النجاح وبناء أشهر مطعم بيتزا.",
+      "filename": "30a9d39a-95ad-4799-95a5-bbf7eab8dbb5.zip",
+      "originalFilename": "Good.Pizza.Great.Pizza.Cooking.Simulator[GameBlaze.com].zip",
+      "fileSize": 810667402,
+      "cover": "cover-30a9d39a-95ad-4799-95a5-bbf7eab8dbb5.jpg",
+      "screenshots": [],
+      "systemMin": {
+        "cpu": "لعبة خفيفة تغمل على مواصفات عادية"
+      },
+      "systemRec": null,
+      "downloadCount": 3,
+      "viewCount": 3,
+      "createdAt": 1782988203947
+    },
+    {
+      "id": "a02ce513-d63a-4e20-b658-8661e19831ee",
+      "name": "تحميل لعبة الورق Balatro",
+      "description": "",
+      "story": "Balatro هي لعبة بطاقات تعتمد على البوكر، لكنها تضيف عناصر استراتيجية وأسلوب لعب يشبه ألعاب الروغلايك. يتقدم اللاعب عبر مراحل متتالية من خلال تكوين أفضل توزيعات البوكر وجمع النقاط المطلوبة للفوز. مع كل مرحلة يمكن الحصول على بطاقات خاصة وقدرات فريدة وعناصر تعزز قوة المجموعة، مما يسمح بابتكار استراتيجيات مختلفة في كل جولة. بفضل التنوع الكبير في البطاقات والتحديات، تقدم اللعبة تجربة مليئة بالتخطيط والتجربة وإعادة اللعب.",
+      "filename": "a02ce513-d63a-4e20-b658-8661e19831ee.zip",
+      "originalFilename": "Balatro[GameBlaze.com].zip",
+      "fileSize": 60495657,
+      "cover": "cover-a02ce513-d63a-4e20-b658-8661e19831ee.jpg",
+      "screenshots": [],
+      "systemMin": {
+        "cpu": "اللعبة خفيفة تعمل على مواصفات عادية :)"
+      },
+      "systemRec": null,
+      "downloadCount": 9,
+      "viewCount": 11,
+      "createdAt": 1782986714515
+    },
+    {
+      "id": "f39563bc-c157-49ea-ada9-6bae6bc74a68",
+      "name": "Counter-Strike 1.6",
+      "description": "",
+      "story": "Counter-Strike 1.6 هي واحدة من أشهر ألعاب التصويب من منظور الشخص الأول. تدور فكرتها حول مواجهة بين فريق قوات مكافحة الإرهاب (Counter-Terrorists) وفريق الإرهابيين (Terrorists) في جولات قصيرة. تختلف أهداف كل خريطة، مثل إنقاذ الرهائن أو تفكيك القنبلة أو منع زرعها. تعتمد اللعبة على العمل الجماعي، والتخطيط، وسرعة رد الفعل، وقد أصبحت من أكثر الألعاب تأثيرًا في تاريخ الرياضات الإلكترونية بفضل أسلوبها التنافسي وبساطتها.",
+      "filename": "f39563bc-c157-49ea-ada9-6bae6bc74a68.zip",
+      "originalFilename": "counter.strike1.6[GameBlaze.com] (1).zip",
+      "fileSize": 267080844,
+      "cover": "cover-f39563bc-c157-49ea-ada9-6bae6bc74a68.jpg",
+      "screenshots": [],
+      "systemMin": {
+        "cpu": "اللعبة تعمل على اي جهاز بمواصفات ضعيفة"
+      },
+      "systemRec": null,
+      "downloadCount": 7,
+      "viewCount": 12,
+      "createdAt": 1782985842371
+    }
+  ]
+}
