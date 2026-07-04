@@ -1,0 +1,7 @@
+[build]
+install = "pnpm install --no-frozen-lockfile"
+build = "pnpm run build"
+
+[start]
+cmd = "pnpm --filter @workspace/api-server start"
+
