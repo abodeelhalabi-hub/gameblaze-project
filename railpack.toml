@@ -5,3 +5,6 @@ build = "pnpm run build"
 [start]
 cmd = "pnpm --filter @workspace/api-server start"
 
+[env]
+PNPM_HOME = "/root/.pnpm"
+
