@@ -3,7 +3,7 @@
   "include": ["src/**/*"],
   "exclude": ["node_modules", "build", "dist", "**/*.test.ts"],
   "compilerOptions": {
-    "noEmit": true,
+    "baseUrl": ".",
     "jsx": "preserve",
     "lib": ["esnext", "dom", "dom.iterable"],
     "resolveJsonModule": true,
@@ -12,7 +12,11 @@
     "types": ["node", "vite/client"],
     "paths": {
       "@/*": ["./src/*"]
-    }
+    },
+    "composite": true,
+    "declaration": true,
+    "outDir": "./dist",
+    "skipLibCheck": true
   },
   "references": [
     {

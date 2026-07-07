@@ -7,7 +7,7 @@
     "lib/*"
   ],
   "catalog": {
-    "vite": "latest",
-    "drizzle-orm": "latest"
+    "vite": "^6.0.0",
+    "drizzle-orm": "^0.36.0"
   }
 }
