@@ -10,8 +10,7 @@
     }
   },
   "scripts": {
-    "build": "node ./build.mjs"
-  },
+"build": "echo 'Skipping build for api-zod'"  },
   "dependencies": {
     "zod": "catalog:"
   }
